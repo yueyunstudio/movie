@@ -4,7 +4,45 @@
   
   
   <entry>
-    <title>长月烬明【第18集】</title>
+    <title>《深海》</title>
+    <link href="/movie/shenhai/"/>
+    <url>/movie/shenhai/</url>
+    
+    <content type="html"><![CDATA[<div id="dplayer" class="dplayer"></div><script type="text/javascript" src="https://robin-shop.oss-cn-hangzhou.aliyuncs.com/player/player/hls.min.js"></script><script type="text/javascript" src="https://robin-shop.oss-cn-hangzhou.aliyuncs.com/player/player/DPlayer.min.js"></script><script>    var url = 'https://vip.lz-cdn1.com/20230324/20760_c088369d/index.m3u8'    var dp = new DPlayer({        container: document.getElementById('dplayer'),        autoplay: true,        theme: '#FADFA3',        screenshot: true,        hotkey: true,        volume: 0.2,        mutex: true,        video: {            url: url,            type: 'auto'        }    });    dp.notice("正在播放《深海》HD中字", 2000)</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>电影</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《流浪地球2》</title>
+    <link href="/movie/lldq2/"/>
+    <url>/movie/lldq2/</url>
+    
+    <content type="html"><![CDATA[<div id="dplayer" class="dplayer"></div><script type="text/javascript" src="https://robin-shop.oss-cn-hangzhou.aliyuncs.com/player/player/hls.min.js"></script><script type="text/javascript" src="https://robin-shop.oss-cn-hangzhou.aliyuncs.com/player/player/DPlayer.min.js"></script><script>    var url = 'https://hd.lz-cdn18.com/20230414/1866_7d8603d9/index.m3u8'    var dp = new DPlayer({        container: document.getElementById('dplayer'),        autoplay: true,        theme: '#FADFA3',        screenshot: true,        hotkey: true,        volume: 0.2,        mutex: true,        video: {            url: url,            type: 'auto'        }    });    dp.notice("正在播放《流浪地球2》HD中字", 2000)</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>电影</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>《长月烬明》【第18集】</title>
     <link href="/movie/cyjm/"/>
     <url>/movie/cyjm/</url>
     
