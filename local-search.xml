@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>《中国乒乓之绝地反击》</title>
+    <link href="/movie/zgpp/"/>
+    <url>/movie/zgpp/</url>
+    
+    <content type="html"><![CDATA[<div id="dplayer" class="dplayer"></div><script type="text/javascript" src="https://robin-shop.oss-cn-hangzhou.aliyuncs.com/player/player/hls.min.js"></script><script type="text/javascript" src="https://robin-shop.oss-cn-hangzhou.aliyuncs.com/player/player/DPlayer.min.js"></script><script>    var url = 'https://hd.lz-cdn18.com/20230318/1167_d967273f/index.m3u8'    var dp = new DPlayer({        container: document.getElementById('dplayer'),        autoplay: true,        theme: '#FADFA3',        screenshot: true,        hotkey: true,        volume: 0.2,        mutex: true,        video: {            url: url,            type: 'auto'        }    });    dp.notice("正在播放《中国乒乓之绝地反击》HD中字", 2000)</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>电影</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>《深海》</title>
     <link href="/movie/shenhai/"/>
     <url>/movie/shenhai/</url>
@@ -42,11 +61,11 @@
   
   
   <entry>
-    <title>《长月烬明》【第18集】</title>
+    <title>《长月烬明》【第23集】</title>
     <link href="/movie/cyjm/"/>
     <url>/movie/cyjm/</url>
     
-    <content type="html"><![CDATA[<div class="list">    <a class="btn" href="/movie/cyjm/1/"  title="《长月烬明》第01集" target="_blank">第01集</a>    <a class="btn" href="/movie/cyjm/2/"  title="《长月烬明》第02集" target="_blank">第02集</a>    <a class="btn" href="/movie/cyjm/3/"  title="《长月烬明》第03集" target="_blank">第03集</a>    <a class="btn" href="/movie/cyjm/4/"  title="《长月烬明》第04集" target="_blank">第04集</a>    <a class="btn" href="/movie/cyjm/5/"  title="《长月烬明》第05集" target="_blank">第05集</a>    <a class="btn" href="/movie/cyjm/6/"  title="《长月烬明》第06集" target="_blank">第06集</a>    <a class="btn" href="/movie/cyjm/7/"  title="《长月烬明》第07集" target="_blank">第07集</a>    <a class="btn" href="/movie/cyjm/8/"  title="《长月烬明》第08集" target="_blank">第08集</a>    <a class="btn" href="/movie/cyjm/9/"  title="《长月烬明》第09集" target="_blank">第09集</a>    <a class="btn" href="/movie/cyjm/10/"  title="《长月烬明》第10集" target="_blank">第10集</a>    <a class="btn" href="/movie/cyjm/11/"  title="《长月烬明》第11集" target="_blank">第11集</a>    <a class="btn" href="/movie/cyjm/12/"  title="《长月烬明》第12集" target="_blank">第12集</a>    <a class="btn" href="/movie/cyjm/13/"  title="《长月烬明》第13集" target="_blank">第13集</a>    <a class="btn" href="/movie/cyjm/14/"  title="《长月烬明》第14集" target="_blank">第14集</a>    <a class="btn" href="/movie/cyjm/15/"  title="《长月烬明》第15集" target="_blank">第15集</a>    <a class="btn" href="/movie/cyjm/16/"  title="《长月烬明》第16集" target="_blank">第16集</a>    <a class="btn" href="/movie/cyjm/17/"  title="《长月烬明》第17集" target="_blank">第17集</a>    <a class="btn" href="/movie/cyjm/18/"  title="《长月烬明》第18集" target="_blank">第18集</a></div>]]></content>
+    <content type="html"><![CDATA[<div class="list">    <a class="btn" href="/movie/cyjm/1/"  title="《长月烬明》第01集" target="_blank">第01集</a>    <a class="btn" href="/movie/cyjm/2/"  title="《长月烬明》第02集" target="_blank">第02集</a>    <a class="btn" href="/movie/cyjm/3/"  title="《长月烬明》第03集" target="_blank">第03集</a>    <a class="btn" href="/movie/cyjm/4/"  title="《长月烬明》第04集" target="_blank">第04集</a>    <a class="btn" href="/movie/cyjm/5/"  title="《长月烬明》第05集" target="_blank">第05集</a>    <a class="btn" href="/movie/cyjm/6/"  title="《长月烬明》第06集" target="_blank">第06集</a>    <a class="btn" href="/movie/cyjm/7/"  title="《长月烬明》第07集" target="_blank">第07集</a>    <a class="btn" href="/movie/cyjm/8/"  title="《长月烬明》第08集" target="_blank">第08集</a>    <a class="btn" href="/movie/cyjm/9/"  title="《长月烬明》第09集" target="_blank">第09集</a>    <a class="btn" href="/movie/cyjm/10/"  title="《长月烬明》第10集" target="_blank">第10集</a>    <a class="btn" href="/movie/cyjm/11/"  title="《长月烬明》第11集" target="_blank">第11集</a>    <a class="btn" href="/movie/cyjm/12/"  title="《长月烬明》第12集" target="_blank">第12集</a>    <a class="btn" href="/movie/cyjm/13/"  title="《长月烬明》第13集" target="_blank">第13集</a>    <a class="btn" href="/movie/cyjm/14/"  title="《长月烬明》第14集" target="_blank">第14集</a>    <a class="btn" href="/movie/cyjm/15/"  title="《长月烬明》第15集" target="_blank">第15集</a>    <a class="btn" href="/movie/cyjm/16/"  title="《长月烬明》第16集" target="_blank">第16集</a>    <a class="btn" href="/movie/cyjm/17/"  title="《长月烬明》第17集" target="_blank">第17集</a>    <a class="btn" href="/movie/cyjm/18/"  title="《长月烬明》第18集" target="_blank">第18集</a>    <a class="btn" href="/movie/cyjm/19/"  title="《长月烬明》第19集" target="_blank">第19集</a>    <a class="btn" href="/movie/cyjm/20/"  title="《长月烬明》第20集" target="_blank">第20集</a>    <a class="btn" href="/movie/cyjm/21/"  title="《长月烬明》第21集" target="_blank">第21集</a>    <a class="btn" href="/movie/cyjm/22/"  title="《长月烬明》第22集" target="_blank">第22集</a>    <a class="btn" href="/movie/cyjm/23/"  title="《长月烬明》第23集" target="_blank">第23集</a></div>]]></content>
     
     
     <categories>
